@@ -6,3 +6,10 @@ suma = 10 + 5
 print(nombre)
 print(edad)
 print(suma)
+calificacion = 8
+
+if calificacion >= 6:
+    print("Aprobado")
+else:
+    print("Reprobado")
+
