@@ -13,3 +13,9 @@ if calificacion >= 6:
 else:
     print("Reprobado")
 
+# Creamos una lista de frutas
+frutas = ["manzana", "banana", "cereza", "naranja"]
+
+# Recorremos la lista e imprimimos cada elemento
+for fruta in frutas:
+    print(f"Me gusta la {fruta}")
